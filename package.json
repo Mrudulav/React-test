@@ -23,7 +23,6 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://manan30.github.io/movies-db/",
   "browserslist": {
     "production": [
       ">0.2%",
