@@ -1,13 +1,12 @@
 import React from 'react';
 
-import GlobalStyles from './GlobalStyles';
-import Main from './views/Main';
+// import GlobalStyles from './GlobalStyles';
+// import Main from './views/Main';
 
 function App() {
   return (
     <>
-      <GlobalStyles />
-      <Main />
+      <div> Hello world </div>
     </>
   );
 }
